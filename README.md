@@ -1,6 +1,6 @@
 Selma First Collection 
 ----
 
-# About Selma
+# About Selma NB FLATIRON SCHOOL IOS PROGRAM
 
-Some testing materials for Selma first collection...
+Selma is having fun learning about GIT
