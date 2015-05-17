@@ -3,4 +3,4 @@ Selma First Collection
 
 # About Selma
 
-Some testing materials for Selma first collection...
+New York Times Raves this is the best stamp collection of the ages!!
