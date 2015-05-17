@@ -1,6 +1,6 @@
 Selma First Collection 
 ----
 
-# About 
+# About Selma
 
 Some testing materials for Selma first collection...
